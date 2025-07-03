@@ -1,6 +1,6 @@
 ### Formål
-# Scriptet laver pdf'er om til tekst chunks med metadata og gemmer dem så i et json format
-
+# Scriptet laver pdf'er om til tekst chunks med metadata og gemmer dem så i et jsonl-format
+#Man skal indsætte en sti i linje 11
 
 # setup
 import os # for at tilgå mapper
